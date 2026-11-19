@@ -7,4 +7,4 @@ Another person who I know got hold of a bunch of game files and decided to use a
 # Embedding your own games
 At the sidebar at the bottom, you will find a button with the name "Help". Click on that and it will show a popup like this:\
 ![Screenshot of the popup](https://raw.githubusercontent.com/mefuhuze282/Browser-games/refs/heads/main/load_html.png)\
-Now, click on the button that says "Load HTML" and now you can load any HTML game you want!\
+Now, click on the button that says "Load HTML" and now you can load any HTML game you want!
